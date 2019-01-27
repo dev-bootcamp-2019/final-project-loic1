@@ -304,10 +304,4 @@ contract('Pledgeo', function(accounts) {
         assert.equal(eventEmittedTx1, true, 'joining an event should emit a JoinEvent event')
         assert.equal(result1.nbOfParticipants, 2, 'the value of the mapping events for the key eventId and parameter nb_of_participant should be 2')
     })
-
-    it("should approve an event with the provided parameters and the proper require restrictions", async () => {
-        let instance = await Pledgeo.deployed()
-
-    })
-
 });

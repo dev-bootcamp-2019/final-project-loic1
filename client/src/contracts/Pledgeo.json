@@ -52646,10 +52646,22 @@
       "links": {},
       "address": "0x28065E0472c0cc42a8A0E26182539A094c3d47c5",
       "transactionHash": "0xaf48ecf45b0650d35969f68d79c082af12026ee5e758b5858598916d3e2b73fb"
+    },
+    "1548605648579": {
+      "events": {},
+      "links": {},
+      "address": "0x88BF3F5f9FCd03A0447b747b80F85DD991B51512",
+      "transactionHash": "0x81e5d8a37ad6eb2242517ec2186ccec6bb8b0daade6b10db17f76b2a418b2e21"
+    },
+    "1548620861278": {
+      "events": {},
+      "links": {},
+      "address": "0x014496f2AA07C7a29C2b9D4C9d6f6Cc7C2736B77",
+      "transactionHash": "0xf9343baf77a6ba0d331cb82bb9c42ee09b598bd5d3d2b43665b335a0a52430fb"
     }
   },
   "schemaVersion": "3.0.1",
-  "updatedAt": "2019-01-26T23:41:16.494Z",
+  "updatedAt": "2019-01-27T20:28:33.327Z",
   "devdoc": {
     "author": "loic1",
     "details": "Simple smart contract which allows to establich a platform that facilitates business in remote areas",
